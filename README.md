@@ -1,3 +1,15 @@
+    _______     _______  _______  _______  _______  _______ 
+   /  __   |   /  __   |/  __   |/  __   |/  __   |/  __   |
+  |  |  |  |  |  |  |  ||  |  |  ||  |  |  ||  |  |  ||  |  |  
+  |  |__|__|  |  |__|__||  |__|__||  |__|__||  |__|__||  |__|__|
+  |  _____   |  |      ||   ____  ||   ____  ||   ____  ||   ____  |
+  |  |   |    |  |      ||  |   |   ||  |   |   ||  |   |   ||  |   |   |
+  |__|   |    |  |      ||  |   |   ||  |   |   ||  |   |   ||  |   |   |
+
+              ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝     
+
+
+
 # Script de Limpeza de Arquivos Temporários e Logs do Windows
 
 Este script foi desenvolvido para realizar a limpeza de arquivos temporários, lixeira, logs, caches de navegadores e outros resíduos gerados no sistema operacional Windows. Ele utiliza **CMD** e **PowerShell** para garantir maior cobertura e eficácia na exclusão de arquivos indesejados.
