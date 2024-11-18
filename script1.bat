@@ -1,6 +1,6 @@
 REM @ SCRIPT PARA ELIMINA  O DE ARQUIVOS TEMPOR RIOS
 REM @ Lixeira, Windows, Logs, Navegadores e Adobe Media Cache
-REM @ GERMESON PEREIRA - Analista de Suporte N2
+REM @ GERMESON PEREIRA - Analista de TI
 
 REM ******************** LIMPAR LIXEIRA DE TODOS OS USUÁRIOS ********************
 
